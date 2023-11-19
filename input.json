@@ -1,0 +1,4 @@
+{
+    "actions": "(a) x := x + 1\n(b) y := y + 2z\n(c) x := 3x + z\n(d) w := w + v\n(e) z := y − z\n(f) v := x + v",
+    "w": "acdcfbbe"
+}
